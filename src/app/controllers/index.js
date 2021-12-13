@@ -1,6 +1,4 @@
-module.exports = (req, res) => {
-    res.send(`
-        <html>
+<html>
             <head>
                 <meta charset="utf-8">
             </head>
@@ -10,5 +8,3 @@ module.exports = (req, res) => {
                 <h3>HTML</h3>
             </body>
         </html>
-    `);
-}
